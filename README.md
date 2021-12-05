@@ -117,6 +117,5 @@ Our Shell handles 2 Built-in commands:
 * isatty (man 3 isatty)
 * fflush (man 3 fflush)
 ```
-
 ## Author
 ##Omar Cherni  <3639@holbertonschool.com>
