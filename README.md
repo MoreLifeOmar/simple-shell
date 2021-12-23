@@ -1,5 +1,13 @@
-# simple_shell by Omar Cherni
-Creating a simple UNIX shell from scratch using only the c programming language.
+<h1 align="center">simple_shell by Omar Cherni</h1>
+Creating a simple UNIX shell from scratch using the C programming language.
+
+---
+
+<p align="center">
+<a target="_blank" href="https://www.holbertonschool.com/"><img src="https://github.com/dreamdaddybanks/holbertonschool-low_level_programming/blob/master/holby.jpg?raw=true"></a>
+</p>
+
+---
 
 ## Description
 
